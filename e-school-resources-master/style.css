@@ -1,0 +1,436 @@
+.logo img{
+    height: 55px;
+    margin-top: 30px;
+    margin-left: 100px;
+   
+    
+}
+.navbar-item a{
+    padding: 5px;
+    text-decoration: none;
+    color:black;
+    transition: .1s;
+    font-weight: 500;
+    
+}
+.navbar-item{
+    margin-right: 100px;
+}
+
+.navbotto{
+   background-color:#21B573;
+   border-radius: 33px;
+   border: #21B573;
+   height: 32px;
+   font-size: 20px;
+   color: aliceblue;
+   width: 100px;
+   height: 37px;
+  
+}
+
+ 
+ 
+
+a:hover{
+   
+   color: black;
+   border-top: 2px solid aquamarine;
+   border-right: 2px solid orange;
+   border-bottom: 2px solid deeppink;
+   border-left: 2px solid indigo;
+   border-radius: 10px;
+}
+
+.header-img {
+  float: right;
+  height: 300px;
+  margin-right: 30px;
+ 
+    
+}
+
+.text-1{
+    color: #FD511A;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+
+.text-1 h1{
+    color: #000000;
+
+}
+
+.text-1 h1{
+    margin-top: 30px;
+}
+.text-color{
+    color: #21B573;
+}
+
+.text-1 h6{
+    font-size: 13px;
+}
+.text-1 p{
+    color: #6C6B6B;
+    margin-top: 20px;
+}
+
+.botton-header button{
+    color: white;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: #21B573;
+    height: 40px;
+    width: 150px ;
+    transition: .2s;
+
+}
+
+ .botton:hover{
+    border:3px solid #F4A13E;
+}
+
+
+.containen{
+    background-color: #F0FFF0;
+    height: 576px;
+    
+    
+}
+
+
+          
+ 
+.container{
+    display: flex;
+    
+    
+    
+    
+}
+
+
+.card{
+    height: 270px;
+    width: 270px;
+    margin: 20px;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 80px;
+   
+}
+
+.card h2{
+    font-size: 20px;
+    margin-top: 10px;
+    
+
+}
+
+
+.card-img-1{
+    background-image: url(ICON/book.png);
+    background-size: cover;
+    height: 85px;
+    width: 66px;
+    margin-top: 50px;
+    margin-left: 60px;
+   
+    
+}
+
+
+ .card-img-2{
+    background-image: url(ICON/Student.png);
+    background-size: cover;
+    height: 83px;
+    width: 80px;
+    margin-top: 50px;
+    margin-left: 60px;
+ 
+}
+  
+.card-img-3{
+    background-image: url(ICON/Test.png);
+    background-size: cover;
+    height: 80px;
+    width: 75px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.card-img-4{
+    background-image: url(ICON/Students.png);
+    background-size: cover;
+    height: 76px;
+    width: 68px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+
+.card-1{
+    background-color: #F8FFFB;
+    box-shadow: 1px 1px 1px #21B573;
+}
+
+
+.card-2{
+    background-color: #FFFFFF;
+    box-shadow: 5px 5px 10px rgb(196, 196, 196);
+    
+}
+
+.card-3{
+    background-color: #F8FFFB;
+    box-shadow: 1px 1px 1px #f136d5;
+    
+}
+
+
+.card-4{
+   background-color: #F8FFFB;
+   box-shadow: 1px 1px 1px #f8661d;
+}
+
+
+        
+ .online-text{
+    width: 280px;
+    height: 54px;
+    color: #413960;
+    margin-top: 50px;
+    margin-left: 39%;
+
+ 
+   
+}
+
+
+
+
+
+
+
+
+.new-wo-img1{
+    background-image: url(Photos/Morder\ pyschology.png);
+    width: 230px;
+    height: 170px;
+    background-size: cover;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+
+}
+
+.new-wo-img2{
+    background-image: url(Photos/Morder\ psyc.png);
+    width: 230px;
+    height: 170px;
+    background-size: cover;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.new-wo-img3{
+    background-image: url(Photos/Morder\ pychons.png);
+    width: 230px;
+    height: 170px;
+    background-size: cover;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.card-two h2,p,button{
+    margin-left: 10px;
+}
+
+.card-two button{
+    width:137px;
+    height: 35px;
+    border-radius: 33px;
+    background-color: #21B573;
+    color: white;
+    border: none;
+}
+
+.two-cars{
+    display: flex;
+    height: 430px;
+    width: 350px;
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+
+}
+
+.caes-img img{
+     width: 250px;
+     height: 150px;
+     margin: 20px 10px 10px 20px;
+    
+}
+
+.caes-img h1{
+    margin-left: 20px;
+    font-size: 24px;
+    color:  rgba(65, 57, 96, 1);;
+
+    
+}
+
+.caes-img p{
+    margin-left: 20px;
+    font-size: 16px;
+    color:rgba(88, 88, 89, 1);
+    
+}
+
+.caes-botton{
+    height: 35px;
+    width: 130px;
+    border: none;
+    background: rgba(33, 181, 115, 1);
+    color: white;
+    border-radius: 30px;
+    margin-left: 20px;
+
+}
+
+.cars-to-img img{
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-top: 100px;
+    
+}
+.cars-to-text h6{
+    position: absolute;
+    font-size: 13px;
+    margin-left: 50px;
+    margin-top: 105px;
+    font-weight: 500;
+    color:rgba(88, 88, 89, 1);
+}
+
+.carf-img img{
+    width: 24px;
+    height: 24px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.carf-text h6{
+    margin-top: 104px;
+    font-size: 15px;
+    font-weight: 500;
+    color:rgba(88, 88, 89, 1);
+    
+
+}
+
+.texy{
+    text-align: center;
+    margin-top: 70px;
+    
+    
+}
+
+
+.texy h1{
+
+    font-size: 36px;
+    color: rgba(0, 0, 0, 5);
+}
+
+.man-img img{
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-left: 130px;
+    margin-top: 60px;
+}
+
+.man-text h6{
+    width: 700px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-style: italic;
+}
+
+.footer{
+    background: rgba(40, 37, 49, 1);
+    height: 350px;
+    margin-top: 70px;
+    display: flex;
+    
+
+}
+.content{
+    display: flex;
+}
+.text-footer-1{
+    color: white;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 50px;
+    width: 360px;
+    height: 60px;
+    
+}
+    
+    
+   
+.text-footer{
+    color: white;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+
+.text-footer li{
+    list-style: none;
+    font-style: italic;
+    font-size: 13px;
+    
+}
+
+.text-foot-1 h5{
+    color: white;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.text-foot-1 li{
+    list-style: none;
+    font-style: italic;
+    font-size: 13px;
+    color: white;
+    margin-left: 60px;
+}
+
+.text-joo-2 h5{
+    color: white;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.text-joo-2 li{
+    list-style: none;
+    font-style: italic;
+    font-size: 13px;
+    color: white;
+    margin-left: 60px;
+}
+
+.last-text{
+    color: #F4A13E;
+    text-align: center;
+    margin-top: 100px;
+}
